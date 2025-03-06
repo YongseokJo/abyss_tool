@@ -1,1 +1,1 @@
-# abyss_tool
+# Package for analyzing ABYSS restuls
